@@ -1,3 +1,3 @@
 # A3-Metro
 
-Academic project to model a metro system using **graphs** and determine the **shortest travel time** between stations.
+A simple cademic project to model a metro system to determine the **shortest travel time** between stations.
